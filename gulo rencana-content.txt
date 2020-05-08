@@ -1,0 +1,7 @@
+RENCANA MEMBUAT CONTENT
+-PHP
+  *LARAVEL
+-Javascript
+  *ES6
+-Ecommerce
+-Tiket
