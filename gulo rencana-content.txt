@@ -6,5 +6,7 @@ RENCANA MEMBUAT CONTENT
   *Framework Javascript
     ^Angular
     ^React Native
+    ^React
+    ^Vue
 -Ecommerce
 -Tiket
