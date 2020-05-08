@@ -1,10 +1,11 @@
 RENCANA MEMBUAT CONTENT
 -PHP
   *LARAVEL
--Struktur data dasar
 -Javascript
   *ES6
   *Framework Javascript
+    ^Angular
+    ^React Native
     ^React
     ^Vue
 -Ecommerce
